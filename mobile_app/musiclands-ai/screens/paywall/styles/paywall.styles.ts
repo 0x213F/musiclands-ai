@@ -157,6 +157,12 @@ export const paywallStyles = StyleSheet.create({
     opacity: 0.7,
   },
   
+  skipButton: {
+    paddingVertical: 12,
+    alignItems: 'center',
+  },
+  
+  // Legacy name for compatibility
   restoreButton: {
     paddingVertical: 12,
     alignItems: 'center',
@@ -183,6 +189,13 @@ export const paywallStyles = StyleSheet.create({
     marginTop: 4,
   },
   
+  skipText: {
+    color: 'rgba(255,255,255,0.7)',
+    fontSize: 14,
+    textDecorationLine: 'underline',
+  },
+  
+  // Legacy name for compatibility  
   restoreText: {
     color: 'rgba(255,255,255,0.7)',
     fontSize: 14,

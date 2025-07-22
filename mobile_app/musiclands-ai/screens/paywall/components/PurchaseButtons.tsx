@@ -12,7 +12,6 @@ export const PurchaseButtons: React.FC = () => {
     isLoading,
     isPurchasing,
     purchaseProduct,
-    restorePurchases,
     getProductPrice
   } = usePaywallStore();
 
@@ -31,8 +30,8 @@ export const PurchaseButtons: React.FC = () => {
     purchaseProduct(productId, () => router.push('/chat'));
   };
 
-  const handleRestore = () => {
-    restorePurchases(() => router.push('/chat'));
+  const handleFreeVersion = () => {
+    router.push('/chat');
   };
 
   if (isLoading) {
@@ -94,11 +93,11 @@ export const PurchaseButtons: React.FC = () => {
       
       <TouchableOpacity 
         style={paywallStyles.restoreButton}
-        onPress={handleRestore}
+        onPress={handleFreeVersion}
         disabled={isLoading}
       >
         <Text style={paywallStyles.restoreText}>
-          Restore Previous Purchases
+          Free version for me thanks
         </Text>
       </TouchableOpacity>
       
