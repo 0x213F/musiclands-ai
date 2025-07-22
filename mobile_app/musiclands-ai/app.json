@@ -23,7 +23,8 @@
       "infoPlist": {
         "CFBundleDisplayName": "Music Land AI",
         "NSCameraUsageDescription": "This app uses camera for profile photos",
-        "NSMicrophoneUsageDescription": "This app uses microphone for voice features"
+        "NSMicrophoneUsageDescription": "This app uses microphone for voice features",
+        "ITSAppUsesNonExemptEncryption": false
       }
     },
     "android": {
@@ -58,6 +59,13 @@
     ],
     "experiments": {
       "typedRoutes": true
-    }
+    },
+    "extra": {
+      "router": {},
+      "eas": {
+        "projectId": "e81d1a26-ed24-494c-a763-7c3df9411db0"
+      }
+    },
+    "owner": "schultheiss"
   }
 }

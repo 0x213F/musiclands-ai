@@ -1,6 +1,18 @@
-# Development Build Setup Guide
+# Development Options Guide
 
-Since your app uses `react-native-iap` (which requires native code), you need a development build instead of Expo Go.
+## Expo Go (For Development)
+
+**✅ Current Setup** - You can use Expo Go for most development work:
+
+```bash
+npx expo start
+```
+
+The IAP functionality will use the mock implementation we created, so you can test the purchase flow without real payments.
+
+## Development Build (For IAP Testing)
+
+Only needed when you want to test **real** in-app purchases on device. Since your app uses `react-native-iap` (which requires native code), you'll need a development build for production IAP testing.
 
 ## Option 1: EAS Build (Recommended)
 
