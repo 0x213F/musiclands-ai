@@ -1,0 +1,169 @@
+{
+  "artists": [
+    {
+      "name": "Electric Dreams",
+      "genres": ["electronic", "house", "techno"],
+      "bio": "Berlin-based electronic duo known for their high-energy live performances and innovative use of vintage synthesizers. Their music blends classic house beats with modern production techniques, creating an irresistible dance floor experience.",
+      "image_url": "https://example.com/artists/electric-dreams.jpg",
+      "website": "https://electricdreamsmusic.com",
+      "spotify_url": "https://open.spotify.com/artist/electricdreams",
+      "instagram": "@electricdreamsberlin",
+      "twitter": "@ElectricDreamsDuo",
+      "popularity_score": 85
+    },
+    {
+      "name": "Sunset Vibes",
+      "genres": ["indie", "alternative", "folk"],
+      "bio": "Four-piece indie rock band from Portland known for their dreamy vocals, atmospheric soundscapes, and introspective lyrics. Their latest album 'Golden Hour' has been praised for its emotional depth and sonic innovation.",
+      "image_url": "https://example.com/artists/sunset-vibes.jpg",
+      "website": "https://sunsetvibesband.com",
+      "spotify_url": "https://open.spotify.com/artist/sunsetvibes",
+      "instagram": "@sunsetvibespdx",
+      "twitter": "@SunsetVibesband",
+      "popularity_score": 72
+    },
+    {
+      "name": "Bass Drop Kings",
+      "genres": ["dubstep", "trap", "electronic"],
+      "bio": "High-octane dubstep collective from London that brings explosive energy to every performance. Known for their massive bass drops, pyrotechnic shows, and ability to get any crowd moving. Festival headliners across Europe and North America.",
+      "image_url": "https://example.com/artists/bass-drop-kings.jpg",
+      "website": "https://bassdropkings.co.uk",
+      "spotify_url": "https://open.spotify.com/artist/bassdropkings",
+      "instagram": "@bassdropkings",
+      "twitter": "@BassDropKings",
+      "popularity_score": 91
+    },
+    {
+      "name": "Folk Stories",
+      "genres": ["folk", "country", "acoustic"],
+      "bio": "Singer-songwriter duo specializing in acoustic folk with heartfelt storytelling. Their music draws from American folk traditions while addressing contemporary themes. Known for intimate performances and audience sing-alongs.",
+      "image_url": "https://example.com/artists/folk-stories.jpg",
+      "website": "https://folkstoriesmusic.com",
+      "spotify_url": "https://open.spotify.com/artist/folkstories",
+      "instagram": "@folkstoriesmusic",
+      "twitter": "@FolkStoriesband",
+      "popularity_score": 58
+    },
+    {
+      "name": "Neon Nights",
+      "genres": ["synthwave", "electronic", "pop"],
+      "bio": "Synthwave artist creating nostalgic 80s-inspired electronic music with a modern twist. Solo performer who uses vintage synthesizers, drum machines, and neon-soaked visuals to transport audiences to a retro-futuristic world.",
+      "image_url": "https://example.com/artists/neon-nights.jpg",
+      "website": "https://neonnightsmusic.com",
+      "spotify_url": "https://open.spotify.com/artist/neonnights",
+      "instagram": "@neonnightsmusic",
+      "twitter": "@NeonNightsWave",
+      "popularity_score": 67
+    },
+    {
+      "name": "Urban Groove Collective",
+      "genres": ["hip-hop", "r&b", "funk"],
+      "bio": "Nine-piece ensemble combining live hip-hop with funk, R&B, and jazz influences. Features live horn section, keyboards, and dynamic MC performances. Known for their infectious groove and crowd participation.",
+      "image_url": "https://example.com/artists/urban-groove.jpg",
+      "website": "https://urbangroovecollective.com",
+      "spotify_url": "https://open.spotify.com/artist/urbangroove",
+      "instagram": "@urbangroovecollective",
+      "twitter": "@UrbanGrooveColl",
+      "popularity_score": 76
+    },
+    {
+      "name": "Crystal Echoes",
+      "genres": ["ambient", "electronic", "experimental"],
+      "bio": "Ambient electronic artist creating immersive soundscapes perfect for meditation, relaxation, and introspective journeys. Uses field recordings, synthesizers, and found sounds to craft ethereal musical experiences.",
+      "image_url": "https://example.com/artists/crystal-echoes.jpg",
+      "website": "https://crystalechoesmusic.com",
+      "spotify_url": "https://open.spotify.com/artist/crystalechoes",
+      "instagram": "@crystalechoesmusic",
+      "twitter": "@CrystalEchoes",
+      "popularity_score": 45
+    },
+    {
+      "name": "The Laugh Factory",
+      "genres": ["comedy", "spoken word"],
+      "bio": "Traveling comedy troupe featuring stand-up comedians, improvisational performers, and musical comedy acts. Known for interactive shows, crowd work, and keeping audiences laughing throughout their performances.",
+      "image_url": "https://example.com/artists/laugh-factory.jpg",
+      "website": "https://thelaughfactory.com",
+      "spotify_url": null,
+      "instagram": "@thelaughfactorycomedy",
+      "twitter": "@LaughFactoryLive",
+      "popularity_score": 62
+    },
+    {
+      "name": "Reggae Sunrise",
+      "genres": ["reggae", "dub", "world"],
+      "bio": "Reggae band from Jamaica bringing authentic island vibes with conscious lyrics and infectious rhythms. Their music promotes unity, positivity, and social awareness while getting crowds moving to the reggae beat.",
+      "image_url": "https://example.com/artists/reggae-sunrise.jpg",
+      "website": "https://reggaesunrise.com",
+      "spotify_url": "https://open.spotify.com/artist/reggaesunrise",
+      "instagram": "@reggaesunriseband",
+      "twitter": "@ReggaeSunrise",
+      "popularity_score": 69
+    },
+    {
+      "name": "Indie Pop Dreamers",
+      "genres": ["indie", "pop", "alternative"],
+      "bio": "Indie pop quintet with catchy melodies, jangly guitars, and dreamy vocals. Their upbeat songs and colorful stage presence create an atmosphere of pure joy and nostalgia. Perfect for sunny afternoon festival sets.",
+      "image_url": "https://example.com/artists/indie-pop-dreamers.jpg",
+      "website": "https://indiepopdreamers.com",
+      "spotify_url": "https://open.spotify.com/artist/indiepopdreamers",
+      "instagram": "@indiepopdreamers",
+      "twitter": "@IndiePopDreamers",
+      "popularity_score": 64
+    },
+    {
+      "name": "Jazz Fusion Experiment",
+      "genres": ["jazz", "fusion", "experimental"],
+      "bio": "Progressive jazz fusion ensemble pushing the boundaries of traditional jazz with electronic elements, complex time signatures, and improvisation. Features virtuoso musicians creating spontaneous musical conversations.",
+      "image_url": "https://example.com/artists/jazz-fusion.jpg",
+      "website": "https://jazzfusionexperiment.com",
+      "spotify_url": "https://open.spotify.com/artist/jazzfusion",
+      "instagram": "@jazzfusionexp",
+      "twitter": "@JazzFusionExp",
+      "popularity_score": 51
+    },
+    {
+      "name": "Local Heroes",
+      "genres": ["rock", "alternative", "punk"],
+      "bio": "Hometown punk rock trio with raw energy, political lyrics, and DIY ethics. Rising stars in the local music scene known for their passionate performances and connection with the community.",
+      "image_url": "https://example.com/artists/local-heroes.jpg",
+      "website": null,
+      "spotify_url": "https://open.spotify.com/artist/localheroes",
+      "instagram": "@localheroesband",
+      "twitter": "@LocalHeroesBand",
+      "popularity_score": 38
+    },
+    {
+      "name": "World Beat Orchestra",
+      "genres": ["world", "fusion", "world beat"],
+      "bio": "Multi-cultural ensemble bringing together musical traditions from around the globe. Features traditional instruments from Africa, Asia, and Latin America combined with contemporary arrangements and rhythms.",
+      "image_url": "https://example.com/artists/world-beat.jpg",
+      "website": "https://worldbeatorchestra.com",
+      "spotify_url": "https://open.spotify.com/artist/worldbeat",
+      "instagram": "@worldbeatorchestra",
+      "twitter": "@WorldBeatOrch",
+      "popularity_score": 73
+    },
+    {
+      "name": "Future Bass Collective",
+      "genres": ["electronic", "future bass", "trap"],
+      "bio": "Electronic music producers specializing in melodic future bass with emotional drops and atmospheric buildups. Known for their cinematic sound design and ability to create both dance floor anthems and introspective journeys.",
+      "image_url": "https://example.com/artists/future-bass.jpg",
+      "website": "https://futurebasscollective.com",
+      "spotify_url": "https://open.spotify.com/artist/futurebass",
+      "instagram": "@futurebasscollective",
+      "twitter": "@FutureBassCol",
+      "popularity_score": 79
+    },
+    {
+      "name": "Acoustic Soul",
+      "genres": ["soul", "acoustic", "r&b"],
+      "bio": "Soulful singer-songwriter with a powerful voice and intimate acoustic arrangements. Her music blends classic soul with contemporary songwriting, creating emotionally resonant performances that connect deeply with audiences.",
+      "image_url": "https://example.com/artists/acoustic-soul.jpg",
+      "website": "https://acousticsoulmusic.com",
+      "spotify_url": "https://open.spotify.com/artist/acousticsoul",
+      "instagram": "@acousticsoulmusic",
+      "twitter": "@AcousticSoulArt",
+      "popularity_score": 55
+    }
+  ]
+}
